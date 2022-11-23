@@ -4,10 +4,12 @@
     margin: 0;
 }
 /*------------------------------------------------------*/
-header{
-    background: #c0dff8;
+.header{
+    background: #D8EEF0;
+    opacity: .9;
     width: 100%;
     height: 70px;
+    position: fixed;
 }
 .img{
     float:left;
